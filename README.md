@@ -1,4 +1,4 @@
-## Olá! Eu sou a Sabrina Bueno, estudante de programação!
+## Olá, eu sou Sabrina Bueno, estudante de programação.
 <div> 
   <a ref="https://github.com/sabrinabuenof">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinabuenof&show_icons=true&theme=codeSTACKr"/>
